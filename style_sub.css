@@ -1,0 +1,68 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #151F5C;
+}
+@import url(C:\Windows\Fonts\VWText);
+
+
+#Geschichte1{
+  font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+#Geschichte2{
+  font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: left;
+    margin-top: 40px;
+    margin-bottom: 160px;
+  
+}
+#Signatur1{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 50px;
+} 
+#Signatur2{
+    font-family: 'Ubuntu', sans-serif;
+    color: whitesmoke;
+    font-size: 20;
+    text-align: center;   
+    margin-top: 10px;
+}
+
+}
+#image {
+    animation: logo 2s;
+  }
+  
+  @keyframes logo {
+    10% {
+      transform: scale(0.0);
+      opacity: 0;
+    } 
+    100% {
+      transform: scale(1);
+      opacity: 1;	
+    }
+  }
+#images
+{
+
+width: 150px;
+padding: 3px;
+font-size: 0.7em;
+text-align: center;
+}
+figcaption{
+  font-family: 'Ubuntu', sans-serif;
+  display: inline-block;
+  color: whitesmoke;
+  text-align: left;
+}
