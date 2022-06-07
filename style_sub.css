@@ -54,15 +54,22 @@ body{
   }
 #images
 {
-
 width: 150px;
 padding: 3px;
 font-size: 0.7em;
 text-align: center;
+}
+#test{
+  width: 300;
+  height: 300;
 }
 figcaption{
   font-family: 'Ubuntu', sans-serif;
   display: inline-block;
   color: whitesmoke;
   text-align: left;
+  margin-left: 20px;
+  margin-top:10px;
+  margin-right:450px;
+  margin-bottom: 40px;
 }
