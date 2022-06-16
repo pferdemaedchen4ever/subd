@@ -65,7 +65,7 @@ text-align: center;
 }
 figcaption{
   font-family: 'Ubuntu', sans-serif;
- 
+  padding-right:200px;
   color: whitesmoke;
   text-align: center;
   margin-left: 20px;
